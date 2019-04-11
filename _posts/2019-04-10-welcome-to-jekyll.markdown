@@ -3,7 +3,7 @@ layout: post
 title: The Jekyll miracle tool!
 date: '2017-04-10 20:42:00 +0000'
 description: >-
-img: null
+img: jekyll.jpeg
 published: true
 ---
 One of the things that I ever want to do it's a blog to talk about all my experience, knowledge and personal opinions about software development and the evolution of technology.
