@@ -1,26 +1,28 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: 2017-04-06 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img:  # Add image post (optional)
+title: The Jekyll miracle tool!
+date: '2017-04-06 13:32:20 +0300'
+description: >-
+  You’ll find this post in your `_posts` directory. Go ahead and edit it and
+  re-build the site to see your changes.
+img: null
+published: true
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+One of the things that I ever want to do it's a blog to talk about all my experience, knowledge and personal opinions about software development and the evolution of technology.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Because of time lacks, I was not able to make a blog in the way that I like to do, but recently I found an easy way to makes a personal blog, with any design that makes a better experience for the reader and the admin of the blog.
 
-Jekyll also offers powerful support for code snippets:
+The tool name is Jekyll, and basically, it's a static website and blog editor that uses markdown as the way to generate content like posts.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Jekyll doesn't use databases to store the posts, basically use the free hosting with [Github Pages][gh-pages], and the way to host a page with GitHub it's uploading the entire web project to a Github repository, create a branch as gh-pages, and finally, GitHub gives you a domain to explore the website anywhere.
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+That's the first post I want to share, hope to share more articles or opinions with the readers.
+
+Greetings.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+[gh-pages]: https://pages.github.com
