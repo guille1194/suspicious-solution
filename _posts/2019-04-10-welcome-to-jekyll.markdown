@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Jekyll miracle tool!
-date: '2017-04-10 20:42:00 +0000'
+date: '2019-04-10 20:42:00 +0000'
 description: >-
 img: jekyll.jpeg
 published: true
