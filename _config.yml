@@ -2,7 +2,7 @@ title: Suspicious Solution
 description: > # this means to ignore newlines until "baseurl:"
   A young Software Developer Blog to all the people who want to learn and having fun like me.
 permalink: ':title/'
-baseurl: "suspicious-solution.com" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
