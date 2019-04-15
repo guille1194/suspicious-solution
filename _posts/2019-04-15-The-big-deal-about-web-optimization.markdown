@@ -36,5 +36,26 @@ how to improve the page. Each audit has a reference doc explaining why the audit
 As it was observed, it is better to adopt these tools to know in detail where are the processes that slow down the load of the page, or 
 possible vulnerabilities in it.
 
-Finally, some data will be shown on the advantages offered by an optimal evaluation of the web pages to make an adequate decision 
+Finally, some facts will be shown on the advantages offered by an optimal evaluation of the web pages to make an adequate decision 
 making to include within the delivery times the correct analysis of the web optimization.
+
+1. Lighthouse facts from think with Google.
+70% of mobile pages take nearly 7 seconds for the visual content above the fold to display on the screen.
+70% of mobile pages weigh over 1MB, 36% over 2MB and 12% over 4MB.
+As the number of elements on a page increases from 400 to 6,000, the probability of conversion drops 95%.
+As page load time goes from one second to 3 seconds, the probability of a mobile site visitor bouncing increases 32%.
+As page load time goes from one second to 5 seconds, the probability of a mobile site visitor bouncing increases 90%.
+As page load time goes from one second to 6 seconds, the probability of a mobile site visitor bouncing increases 106%.
+As page load time goes from one second to 10 seconds, the probability of a mobile site visitor bouncing increases 123%.
+
+2. Lighthouse facts from Google Doubleclick Blog.
+53% of all site visits are abandoned if page load takes more than 3 seconds.
+19 seconds is the average time a mobile web page takes to load on a 3G connection.
+14 seconds is the average time a mobile web page takes to load on a 4G Connection.
+The BBC has seen a loss of 10% of their users for every extra second of page load.
+Rebuilding Pinterest pages for performance increased conversion rates by 15%.
+Walmart saw a 1% increase in revenue for every 100ms improvement in page load.
+
+3. Lighthouse facts from Google Developers Blog.
+If a site takes >1 second to become interactive, users lose attention, and their perception of completing the page task is broken.
+
