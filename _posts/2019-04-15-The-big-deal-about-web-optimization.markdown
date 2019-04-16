@@ -3,7 +3,7 @@ layout: post
 title: The big deal about web optimization
 date: 2019-04-15 00:00:00 +0300
 description: # Add post description (optional)
-img: lighthouse.jpg # Add image post (optional)
+img: lighthouse.png # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
 
