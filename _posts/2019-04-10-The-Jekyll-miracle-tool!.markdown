@@ -4,6 +4,7 @@ title: The Jekyll miracle tool!
 date: '2019-04-10 20:42:00 +0000'
 description: >-
 img: jekyll.jpeg
+tags: [Programming, Learn] # add tag
 published: true
 ---
 One of the things that I ever want to do it's a blog to talk about all my experience, knowledge and personal opinions about software development and the evolution of technology.
