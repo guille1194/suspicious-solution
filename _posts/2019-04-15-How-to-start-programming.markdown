@@ -6,17 +6,17 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: code.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Programming, Learn]
-published: false
+published: true
 ---
 
 Maybe, this should be my first post, both to motivate new people to enter the development area moreover to show benefits and difficulties involved in dedicate to programming.
-Also many of you, like me, are interested in programming through video games, others for all the activities that could be done by a computer, others saw it as the future profession which would leave you many profits in exercising it, but people must be more skilled when they think logically and analytically, things that get along well through programming and software development.
+Also many of you, like me, are interested in programming through video games, others for all the activities that could be done by a computer, others saw it as the future profession which would leave you many profits, but people must be more skilled when they think logically and analytically, things that get along well through programming and software development.
 
 It is incredible to see all the evolution that has existed in the last decades through programming, there are developers with many years of experience who could not change the new paradigms that increasingly turn out to be more common in software companies, therefore I will show you a series of points and guides to avoid that the future paradigms that may exist leave them out of the game to make better practices with the code, or not to be hired by a software development company.
 
 1. **Research constantly.**
 When a programmer is left alone with the basis of what he learned in his studies, it is useful for the logical and analytical part, but that is only a small part of what involves doing professional projects. Personally, in several projects school, to meet the needs I occupied, I came to use several languages that never taught during my studies, so I had to research all the relevant documentation.
-To summarize, I will leave these sites that have helped me throughout my profession, to know new paradigms and languages, it constantly updates the pages to share information and more commonly used in companies.
+To summarize, I will leave these sites that have helped me throughout my profession, to know new paradigms and languages, it constantly updates the pages to share information and more commonly paradigms used by companies.
     - [Codecademy]
     - [GeeksforGeeks]
     - [LeetCode]
@@ -47,10 +47,10 @@ One of the most complex and necessary parts of studying involves the analysis to
 All the Big O notation will be more detailed in a future article.
 
 4. **Study meta code.**
-When we use libraries that belong to a language or framework, what we usually do is to see which method are used to solve a programming problem, but there are developers who rarely examine how these methods or classes work internally, investigating their operation helps us to better understand why this conclusion was reached in the code, or if it is possible to improve it according to the Big O notation.
+When we use libraries that belong to a language or framework, we usually do is to see which method are used to solve a programming problem, but there are developers who rarely examine how these methods or classes work internally, investigating their operation helps us to better understand why this conclusion was reached in the code, or if it is possible to improve it according to the Big O notation.
 Also, this point is related to the fact of studying the documentation of languages or frameworks, this can be found in official pages, although not all languages have very extensive documentation.
 
-These are some important points to integrate further into the world of professional development, miss many important points, but this is an appropriate start to not generate a mental overload.
+These are some important details to integrate further into the world of professional development, miss many important points, but this is an appropriate start to not generate a mental overload.
 
 Finally, the most important thing is to have a logical and analytical mind to find different solutions to those already established, which are more efficient and readable for future developers.
 
