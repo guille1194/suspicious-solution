@@ -20,7 +20,7 @@ social-email: guillermo.navarro@tectijuana.edu.mx # add your Email address
 discus-identifier: https-guille1194-github-io-suspicious-solution-2 # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-138139268-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
