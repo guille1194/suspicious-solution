@@ -21,6 +21,7 @@ discus-identifier: https-guille1194-github-io-suspicious-solution-2 # add your d
 
 # Tracker
 analytics: UA-138139268-1 # Google Analytics
+adsense: ca-pub-2224496275844265 # Google AdSense
 
 # Build Settings
 markdown: kramdown
