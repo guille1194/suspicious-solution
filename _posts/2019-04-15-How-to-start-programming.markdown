@@ -44,7 +44,7 @@ One of the most complex and necessary parts of studying involves the analysis to
     - **Space Complexity**: is total space taken by the algorithm respect to the input size. Space complexity includes both auxiliary space and space used by input.
     The results can also be linear, quadratic or exponential, only here it involves space and no time.
 
-All the Big O notation will be more detailed in a future article.
+For a more detailed explanation about Big O notation, you can visit this [site].
 
 4. **Study meta code.**
 When we use libraries that belong to a language or framework, we usually do is to see which method are used to solve a programming problem, but there are developers who rarely examine how these methods or classes work internally, investigating their operation helps us to better understand why this conclusion was reached in the code, or if it is possible to improve it according to the Big O notation.
@@ -61,3 +61,4 @@ Finally, the most important thing is to have a logical and analytical mind to fi
    [Kaggle]: <https://www.kaggle.com>
    [Coursera]: <https://www.coursera.org>
    [Tutsplus]: <https://tutsplus.com>
+   [site]: <https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/>
