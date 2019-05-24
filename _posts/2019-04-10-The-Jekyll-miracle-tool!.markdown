@@ -1,12 +1,14 @@
 ---
-layout: post
 title: The Jekyll miracle tool!
-date: '2019-04-10 20:42:00 +0000'
-description: >-
+date: 2019-04-10 20:42:00 Z
+tags:
+- Programming
+- Learn
+layout: post
+description: ''
 img: jekyll.jpeg
-tags: [Programming, Learn] # add tag
-published: true
 ---
+
 One of the things that I ever want to do it's a blog to talk about all my experience, knowledge and personal opinions about software development and the evolution of technology.
 
 Because of time lacks, I was not able to make a blog in the way that I like to do, but recently I found an easy way to makes a personal blog, with any design that makes a better experience for the reader and the admin of the blog.

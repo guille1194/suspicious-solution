@@ -1,12 +1,13 @@
 ---
-layout: post
 title: How to start programming
-date: 2019-04-15 01:00:00 +0300
-description: # You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.  Add post description (optional)
-img: code.jpeg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
-tags: [Programming, Learn]
-published: true
+date: 2019-04-14 22:00:00 Z
+tags:
+- Programming
+- Learn
+layout: post
+description: 
+img: code.jpeg
+fig-caption: 
 ---
 
 Maybe, this should be my first post, both to motivate new people to enter the development area moreover to show benefits and difficulties involved in dedicate to programming.

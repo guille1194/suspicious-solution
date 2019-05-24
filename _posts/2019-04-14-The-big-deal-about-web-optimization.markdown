@@ -1,11 +1,12 @@
 ---
-layout: post
 title: The big deal about web optimization
-date: 2019-04-15 00:00:00 +0300
-description: # Add post description (optional)
-img: lighthouse.png # Add image post (optional)
-tags: [Programming, Learn] # add tag
-published: true
+date: 2019-04-14 21:00:00 Z
+tags:
+- Programming
+- Learn
+layout: post
+description: 
+img: lighthouse.png
 ---
 
 In our daily lives as developers we are often faced with the pressure of the delivery times in the priority points of a project, which go through a stage where the QA testers perform the respective tests for the proper functioning of the page, including the measurement of the quality codes we generate and the loading times of the page.

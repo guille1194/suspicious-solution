@@ -1,36 +1,42 @@
+---
 title: Suspicious Solution
-description: > # this means to ignore newlines until "baseurl:"
-  Blog created by a young Software Developer to all the people who want to learn and having fun like me.
-permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 'Blog created by a young Software Developer to all the people who want
+  to learn and having fun like me.
 
-# Author Settings
-author: Guillermo Navarro # add your name
-author-img: guillermo-navarro.jpg # add your photo
-about-author: I am a young software developer, always looking for adventures and good practices with code. # add description
-social-twitter: # add your Twitter handle
-social-facebook: guillermo.navarromancillas # add your Facebook handle
-social-github: guille1194 # add your Github handle
-social-linkedin: guillermo-navarro-mancillas-168232120 # add your Linkedin handle
-social-email: guillermo.navarro@tectijuana.edu.mx # add your Email address
-
-# Disqus
-discus-identifier: https-guille1194-github-io-suspicious-solution-2 # add your discus identifier
-
-# Tracker
-analytics: UA-138139268-1 # Google Analytics
-adsense: ca-pub-2224496275844265 # Google AdSense
-
-# Build Settings
+'
+permalink: ":title/"
+baseurl: ''
+url: ''
+site-twitter: 
+author: Guillermo Navarro
+author-img: guillermo-navarro.jpg
+about-author: I am a young software developer, always looking for adventures and good
+  practices with code.
+social-twitter: 
+social-facebook: guillermo.navarromancillas
+social-github: guille1194
+social-linkedin: guillermo-navarro-mancillas-168232120
+social-email: guillermo.navarro@tectijuana.edu.mx
+discus-identifier: https-guille1194-github-io-suspicious-solution-2
+analytics: UA-138139268-1
+adsense: ca-pub-2224496275844265
 markdown: kramdown
 plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
-
+- jekyll-sitemap
+- jekyll-paginate
+- jemoji
 paginate: 8
 paginate_path: "/page/:num"
-
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+exclude:
+- node_modules
+- gulpfile.js
+- package.json
+- yarn.lock
